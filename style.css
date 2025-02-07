@@ -1563,6 +1563,11 @@ footer {
     html {
         font-size: 60%
     }
+
+    .phone-style {
+        font-size: 3rem;
+        color: #b3b3b3;
+      }
 }
 
 @media screen and (max-width:1400px) {
