@@ -1914,6 +1914,10 @@ footer {
         height: 550px
     }
 
+    .dp img {
+        width: 400px
+    }
+
     .info-div {
         height: 60%
     }
@@ -1943,6 +1947,10 @@ footer {
     .landing-page-container {
         height: fit-content;
         margin-top: 0px !important;  
+    }
+
+    .dp img {
+        width: 300px
     }
     
     html {
